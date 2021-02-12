@@ -44,10 +44,3 @@ The formula for Bayes' theorem is given as:
                 
 **The Codes regarding  Classification using Naive Bayes for datasets *Salary, Iris, Diabetes* are present in this repository in detail**
 	
-
-
-
-
-
-
-datasets: iris, diabetes, salary_data: train and test
